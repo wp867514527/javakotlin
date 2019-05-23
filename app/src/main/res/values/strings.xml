@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">长的丑的</string>
+    <string name="home">首页</string>
+    <string name="know">体系</string>
+    <string name="mine">我的</string>
+    <string name="project">项目</string>
+</resources>

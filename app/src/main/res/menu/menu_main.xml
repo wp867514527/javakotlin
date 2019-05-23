@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_main_home"
+        android:icon="@drawable/selector_home_tab"
+        android:title="@string/home"></item>
+
+    <item
+        android:id="@+id/tab_main_know"
+        android:icon="@drawable/selector_know_tab"
+        android:title="@string/know"></item>
+
+    <item
+        android:id="@+id/tab_main_project"
+        android:icon="@drawable/selector_project_tab"
+        android:title="@string/project"></item>
+    <item
+        android:id="@+id/tab_main_mine"
+        android:icon="@drawable/selector_mine_tab"
+        android:title="@string/mine"></item>
+</menu>
